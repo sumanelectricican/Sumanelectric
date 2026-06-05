@@ -9,7 +9,7 @@ Allow: /
 # Disallow: /private/
 
 # Sitemap location
-Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://sumanelectricican.github.io/Sumanelectric/sitemap.xml
 
 # Crawl delay (optional - set to 0 for no delay)
 Crawl-delay: 0
